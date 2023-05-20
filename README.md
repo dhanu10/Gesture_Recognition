@@ -1,6 +1,6 @@
 # Project Name
 
-Predicting House Prices using historical data by applying Linear Regression techniques.
+Predicting Gestures from video frames using CNN , LSTM Networks
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,7 +12,7 @@ Predicting House Prices using historical data by applying Linear Regression tech
 
 ## General Information
 
-Analysis of ISIC Images:
+Analysis of Video frames :
 
 This repository contains an analysis of the Video clips from the Gesture Recognition dataset. The dataset contains more than 600 training videos and 100+ validation videos, each video containing 30 image frames, with the goal of building models to detect gestures - left, right, up, down , none which can be used in smart TV.
 Objective is to enhance learning of CNN 2D , 3D and LSTM/GRU.
